@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgb(25, 25, 25);
+    overflow: hidden;
+}
+
+.central-element{
+    height: 30vh;
+    width: 30vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 1rem;
+    background-color: rgb(49, 21, 177);
+}
